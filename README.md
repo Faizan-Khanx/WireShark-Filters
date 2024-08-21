@@ -138,12 +138,19 @@ wlan.da == MAC-Address
 
 <b> Cloning an Existing Repository ( Clone with HTTPS ) </b>
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/wireshark-cheatsheet.git
+(ethicalfaizan㉿kali)-[~] git clone https://github.com/Faizan-Khanx/WireShark-Filters
 ```
 
 <b> Cloning an Existing Repository ( Clone with SSH ) </b>
 ```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/wireshark-cheatsheet.git
+(ethicalfaizan㉿kali)-[~] git clone git@github.com/Faizan-Khanx/WireShark-Filters
 ```
 
 You can open the issues to this repo to be support and add new rss lists to this list.
+
+# Feedback
+- If you have any feedback, please reach out to us at
+-  [INSTAGRAM](https://instagram.com/ethicalfaizan)
+-  [GITHUB](https://github.com/faizan-khanx)
+-  [EMAIL](mailto:fk776794@gmail.com)
+  
